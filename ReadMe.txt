@@ -1,4 +1,4 @@
-This is my 3rd Object Oriented Programming homework.
+This is my 3rd Object-Oriented Programming homework.
 
 Desired program is explained in HW3.pdf.
 
